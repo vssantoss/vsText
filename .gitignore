@@ -5,6 +5,8 @@ dist-electron
 .vite
 coverage
 .claude
+AGENTS.md
+CLAUDE.md
 *.tsbuildinfo
 .DS_Store
 Thumbs.db
